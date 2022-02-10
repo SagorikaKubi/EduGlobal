@@ -215,19 +215,21 @@ choose
 /* =================
  about us
 ================= */
-.about-details {
+
+/* .about-details {
   z-index: 1;
-}
-.about-info {
-  background: var(--bg-white);
-  height: 15rem;
-  width: 110%;
+} 
+ .about-info {
   align-items: center;
+  margin: 0 4rem; 
+ background: var(--bg-white);
+  height: 15rem;
+  width: 90%;
   padding: 2rem 3rem 2rem 2rem;
   border-top-right-radius: 110px;
   border-bottom-right-radius: 110px;
-  box-shadow: 5px 5px 5px 2px var(--text-light-gray);
-}
+  box-shadow: 5px 5px 5px 2px var(--text-light-gray); 
+ } */
 
 /* =================
 courses
