@@ -11,39 +11,36 @@
   .about-details {
     z-index: 0;
   }
-  .about-info {
+  /* .about-info {
     margin-left: 2rem;
     background: var(--bg-white);
     height: 25vh;
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
     box-shadow: none;
-  }
+  } */
 }
 
 @media (max-width: 767px) {
-  /* #home .row {
-    flex-direction: column-reverse;
-  } */
   .home-image {
     transform: rotate(0deg);
   }
-  .about-info {
+  /* .about-info {
     height: 40vh;
     margin-left: 0rem;
-  }
+  } */
 }
 
-/* @media (max-width: 600px) {
-  .about-info {
+@media (max-width: 600px) {
+  /* .about-info {
     height: 40vh;
-  }
-} */
+  } */
+}
 
 @media (max-width: 400px) {
-  .about-info {
+  /* .about-info {
     height: 50vh;
     padding: 0 3rem;
     margin-left: 0rem;
-  }
+  } */
 }

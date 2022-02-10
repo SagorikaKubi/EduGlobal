@@ -455,7 +455,7 @@ swiper
   bottom: -2.8125rem;
 }
 
-.testimonials .carousel-indicators button {
+.testimonials .carousel-indicators > button {
   width: 15px;
   height: 15px;
   outline: none;
